@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/Fibs7000/core
+[submodule "native"]
+	path = native
+	url = https://github.com/AlexKnechtl/native.git
